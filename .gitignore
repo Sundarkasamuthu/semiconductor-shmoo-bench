@@ -1,0 +1,18 @@
+# Virtual Environment (your local python sandbox)
+venv/
+
+# Python caching (temporary byte-code files)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Testing frameworks (pytest temporary cache)
+.pytest_cache/
+.cache/
+
+# Data and Plots (keeps generated images out of Git)
+*.png
+*.jpg
+*.jpeg
+*.svg
