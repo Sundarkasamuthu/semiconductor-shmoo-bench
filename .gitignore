@@ -1,6 +1,10 @@
 # Virtual Environment (your local python sandbox)
 venv/
 
+# VS Code Code Runner temporary scratch files
+tempCodeRunnerFile.py
+
+
 # Python caching (temporary byte-code files)
 __pycache__/
 *.pyc
