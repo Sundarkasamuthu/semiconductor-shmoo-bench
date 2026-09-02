@@ -1,7 +1,7 @@
 # PRODUTION CODE
 
 def chip_logic (voltage, frequency):
-    if frequency >= ((voltage * 200)-100): #if voltage is too low for a given frequency
+    if frequency >= ((voltage * 400)-100): #if voltage is too low for a given frequency
         return "fail"
     else: 
         return "pass"
